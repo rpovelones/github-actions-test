@@ -2,7 +2,11 @@ on:
   push:
     branches:
       - staging
+
 name:	🧪 Deploy to staging
+
+concurrency: staging
+
 jobs:
   web-deploy:
     name: 🎉 Deploy
