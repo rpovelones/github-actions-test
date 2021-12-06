@@ -1,1 +1,1 @@
-<?php echo 'Hello production!'; ?>
+<?php echo 'Hello staging! It is '.date('l, F j, Y').'!'; ?>
