@@ -1,1 +1,1 @@
-<?php echo 'Hello staging'; ?>
+<?php echo 'Hello production!'; ?>

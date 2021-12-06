@@ -21,4 +21,4 @@ jobs:
         server: demo-prod.rpdesignlab.com
         username: rpovelo
         password: ${{ secrets.ftp_password }}
-        server-dir: demo-stage.rpdesignlab.com/
+        server-dir: demo-prod.rpdesignlab.com/
